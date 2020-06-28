@@ -1,0 +1,7 @@
+
+
+
+CREAT tabel moves(
+id int(11) not null PRIMARY KEY AUTO_INCREMENT,
+move varchar(128) not null
+);
